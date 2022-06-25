@@ -2,4 +2,10 @@ name: ThornyaEssentials
 version: '${project.version}'
 main: thornyaessentials.thornyaessentials.ThornyaEssentials
 api-version: 1.18
-authors: [ Gusttavo13, _Vulkano_ ]
+authors:
+  - "Gusttavo13"
+  - "_Vulkano_"
+commands:
+  gamemode:
+    description: change gamemode mode
+    aliases: [gm]
